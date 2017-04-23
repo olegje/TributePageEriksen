@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway|Shrikhand|Source+Sans+Pro');
+/* set a max-width for horizontal fluid layout and make it centered */
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
+}
+#well {
+    margin-top: 15px;
+}
+#timeline {
+    line-height: 170%
+}
+h6 {
+    margin-bottom: -20px;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+hr {
+    height: 1px;
+    background: black;
+    font-size: 0;
+    border: 0;
+    opacity: 0.5;
+}
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.6em;
+}
+.quoteFont {
+    font-family: "Shrikhand", cursive;
+}
